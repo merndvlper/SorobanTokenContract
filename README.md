@@ -8,13 +8,6 @@ This project is a custom token smart contract built on the **Soroban** smart con
 - 🔐 Standard token features (transfer, approve, burn, etc.)
 
 ---
-## ℹ️Summary
--Musa Eren Topcu is currently pursuing a degree in Mechatronics Engineering at Fırat University. Alongside his academic journey, he is actively involved in blockchain technologies, contributing to the Fırat Blockchain Community by organizing and participating in related events.
-
-Musa is committed to expanding his skills in systems programming and blockchain development. He is continuously working on practical projects to deepen his understanding and explore innovative solutions within these fields.
-
----
-
 ## 🚀 Contract Address
 
 **`CDXZQLZMQLCC2F3FMSQAEWXMJCDIBHNW6SQ3DUJFFGDEASY4BYJAG6EJ`**
